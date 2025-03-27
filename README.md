@@ -19,7 +19,7 @@ Usage :
 
 Encryption :
 To encrypt files, simply use the command :
-HARansom.bat
+**HARansom.bat**
 
 This script will:
 * Check for the presence of files to encrypt.
